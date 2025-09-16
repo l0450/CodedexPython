@@ -1,7 +1,11 @@
-# pu repo #
+# Codedex Python Course repo #
+
+This repository is made for myself to learn and understand **Python** better.
+I am using this website: https://www.codedex.io/python for this reason.
+Below I will explain what tasks and exercises I have done.
 
 ----
 
-## HelloWorld.py ##
+## Chapter 1 ##
 
-Simple repo with a simple file that prints **Hello World** message in Python
+
