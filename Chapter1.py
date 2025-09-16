@@ -1,4 +1,3 @@
-
 # 01. Setting up
 print('Hi')
 
