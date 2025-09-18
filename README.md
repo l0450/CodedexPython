@@ -142,8 +142,89 @@ The Sorting Hat is a magical talking hat at Hogwarts School of Witchcraft and Wi
 - **Hufflepuff**
 - **Ravenclaw**
 
-The Sorting Hat asks the user some questions with the int() and input() functions. Based on the answers,
-the program selects the house you will represent at Hogwarts!
+The Sorting Hat asks the user some questions with the int() and input() functions. Based on the answers, the program selects the house you will represent at Hogwarts!
+
+----
+
+## Control flow challenges ##
+
+### Food ratings ###
+
+In a five-star restaurant review system, the stars typically represent the different levels of satisfaction.
+
+But what does each of the stars mean?
+
+Start by creating a rating variable and set it equal to a decimal number.
+
+Make a rating system using an if/elif/else statement:
+
+- Rating greater than 4.5, print 'Extraordinary'
+- Rating greater than 4, print 'Excellent'
+- Rating greater than 3, print 'Good'
+- Rating greater than 2, print 'Fair'
+- Everything else, print 'Poor'
+
+### High School Grades ###
+
+U.S. high schools typically last for four years, from freshman year to senior year.
+
+First, ask the user to enter their grade as an integer.
+
+Create a four-year high school grade system using an if/elif/else statement:
+
+- Grade is 9, print 'Freshman'
+- Grade is 10, print 'Sophomore'
+- Grade is 11, print 'Junior'
+- Grade is 12, print 'Senior'
+- Everything else is 'TBD'
+
+### Snapple Facts ###
+
+Snapple is a famous tea drink brand from Queens, New York. Each bottle cap comes with a silly fun fact.
+
+Use the random module to create a number from 0 to 5.
+
+Then use an if/elif/else statement to print out one of these six random Snapple facts:
+
+- 0 - 'Flamingos turn pink from eating shrimp.'
+- 1 - 'The only food that doesn\'t spoil is honey.'
+- 2 - 'Shrimp can only swim backwards.'
+- 3 - 'A taste bud\'s life span is about 10 days.'
+- 4 - 'It is impossible to sneeze while sleeping.'
+- 5 - 'It is illegal to sing off-key in North Carolina.'
+
+### Seasons of the Year ###
+
+Ah, the four seasons in the year — winter, spring, summer, or fall; all you have to do is call!
+
+Ask the user the month number using the input() function.
+
+Check for the four seasons using an if/elif/else statement and logical operators:
+
+- Month is 1, 2, 3, print 'Winter 🌨️'
+- Month is 4, 5, 6, print 'Spring 🌱'
+- Month is 7, 8, 9, print 'Summer 🌻'
+- Month is 10, 11, 12, print 'Autumn 🍂'
+- Everything else is 'Invalid'
+
+### Planet Weights ###
+
+The year is 2199... we have become an interplanetary species and can travel to other planets in the solar system! 🚀
+
+Create a weight conversion program that:
+
+- Asks the user what their Earth weight is (as a float).
+- Asks the user for a planet number (as an int).
+
+Then, use an if/elif/else statement to calculate the user's weight on the destination planet.
+
+To calculate the user's weight:
+
+destination weight= Earth weight × relative gravity
+
+If the user enters a planet number outside of 1 - 7, print a message that says 'Invalid planet number'.
+
+
 
 
 
