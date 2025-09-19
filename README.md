@@ -146,6 +146,36 @@ The Sorting Hat asks the user some questions with the int() and input() function
 
 ----
 
+## Chapter 4 ##
+
+### 17. Enter PIN ###
+
+Copying and pasting the code that was provided in the exercise. In the terminal I put different combinations of numbers to check the result of the provided program.
+
+### 18. Guess Number ###
+
+It's a number guessing name, but there is a limit to the number of tries.
+
+### 19. Detention ###
+
+Suppose you got detention and the teacher wants you to write "I will not use Snapchat in class" on the whiteboard 100 times. I wrote this exercise using **for** loop.
+
+### 20. 99 Bottles ###
+
+"99 Bottles of Beer" is an old song that annoying kids, oops I mean everyone, sang on road trips to pass the time. The same as in the previous exercise, I used the for loop to print
+out all the verses of "99 Bottles of Beer."
+
+### 21. Fizz Buzz ###
+
+Fizz Buzz is a children's word game that teaches division. It's also a classic technical interview question at countless companies. The program outputs the numbers from 1 to 100,
+but here is the catch:
+
+- For multiples of 3, print "Fizz" instead of the number.
+- For multiples of 5, print "Buzz" instead of the number.
+- For multiples of 3 and 5, print "FizzBuzz" instead of the number.
+
+----
+
 ## Control flow challenges ##
 
 ### Food ratings ###
@@ -223,6 +253,10 @@ To calculate the user's weight:
 destination weight= Earth weight × relative gravity
 
 If the user enters a planet number outside of 1 - 7, print a message that says 'Invalid planet number'.
+
+----
+
+
 
 
 
