@@ -256,6 +256,36 @@ If the user enters a planet number outside of 1 - 7, print a message that says '
 
 ----
 
+## Loops challenges ##
+
+### Are we there yet? ###
+
+“Are we there yet?” is a phrase that has existed for as long as there are children, vehicles, and road trips. First, the program asks the user “Are we there yet?” using the input() function and stores it in an answer variable. Then, a while loop was created that asks the user “Are we there yet?” again. It keeps asking them this over and over until they respond with “Yes”.
+
+### New Year Countdown ###
+
+Ring in the New Year! A New Year's Eve party doesn't feel complete without a countdown from 10 to 1. I used the for loop that counts down by using the "step" value in range(). Inside the loop, it prints the numbers from 10 to 1, each on its own line. When the loop finishes the countdown, print this exact string "Happy New Year! 🥳".
+
+### Snake Eyes ###
+
+Suppose we have a pair of dice. In dice games, "snake eyes" means rolling two 1s. Why is it called that? Because two small dots look like a pair of snake eyes. It’s the lowest possible roll (1 + 1 = 2) and is seen as bad luck. Let's keep rerolling two dice until we get snake eyes.
+
+### Asterisks ###
+
+Use only a for loop with range() and print() to display a staircase of asterisks. Be sure you start with a single * in the first line and end with 24 total asterisks on the last line.
+
+### Sum of Squares ###
+
+A number is "squared" when it is either multiplied by itself or taken to the second power (e.g., 4² = 4 x 4 = 16).
+
+First, ask the user for an integer with int(input()) and store it in a number variable. Then, define a total variable with an initial value of 0.
+
+Note: You can pass a string prompt to int(input()).
+
+Next, use a for loop and range() function to calculate the total of the squares of all integers from 1 to that number.
+
+Last, print the output as an integer value.
+
 
 
 
